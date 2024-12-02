@@ -1,0 +1,218 @@
+Tue Dec 03 02:49:44 2024
+ - The program has been successfully launched!
+Tue Dec 03 02:49:55 2024
+ - User choice: 1
+Tue Dec 03 02:50:02 2024
+ - User choice: 4
+Tue Dec 03 02:50:02 2024
+ - The user requested a list of pipes.
+Tue Dec 03 02:50:08 2024
+ - User choice: 1
+Tue Dec 03 02:50:11 2024
+ - User entered name of pipe: Pipe 1
+Tue Dec 03 02:50:17 2024
+ - Entered value: 10.000000
+Tue Dec 03 02:50:17 2024
+ - User entered length of pipe: 10.000000 km
+Tue Dec 03 02:50:20 2024
+ - Entered value: 50.000000
+Tue Dec 03 02:50:20 2024
+ - User entered diameter of pipe: 50.000000 mm
+Tue Dec 03 02:50:20 2024
+ - Pipe was added. ID: 1
+Tue Dec 03 02:50:26 2024
+ - User choice: 1
+Tue Dec 03 02:50:29 2024
+ - User entered name of pipe: Pipe 2
+Tue Dec 03 02:50:37 2024
+ - Entered value: 10.000000
+Tue Dec 03 02:50:37 2024
+ - User entered length of pipe: 10.000000 km
+Tue Dec 03 02:50:40 2024
+ - Entered value: 500.000000
+Tue Dec 03 02:50:40 2024
+ - User entered diameter of pipe: 500.000000 mm
+Tue Dec 03 02:50:40 2024
+ - Pipe was added. ID: 2
+Tue Dec 03 02:50:50 2024
+ - User choice: 4
+Tue Dec 03 02:50:50 2024
+ - The user displayed the data about the pipe: Pipe 1
+Tue Dec 03 02:50:50 2024
+ - The user displayed the data about the pipe: Pipe 2
+Tue Dec 03 02:50:50 2024
+ - The user requested a list of pipes.
+Tue Dec 03 02:50:56 2024
+ - User choice: 2
+Tue Dec 03 02:51:00 2024
+ - User state repair status Pipe ID 1 In repair
+Tue Dec 03 02:51:14 2024
+ - User choice: 2
+Tue Dec 03 02:51:16 2024
+ - User state repair status Pipe ID 1 Ok
+Tue Dec 03 02:51:25 2024
+ - User choice: 5
+Tue Dec 03 02:51:27 2024
+ - The user has selected an action: 1
+Tue Dec 03 02:51:27 2024
+ - The user launched a pipe search using the 'Name' filter.
+Tue Dec 03 02:51:28 2024
+ - Pipe Search 'Name': Name entered:p
+Tue Dec 03 02:51:28 2024
+ - The user displayed the data about the pipe: Pipe 1
+Tue Dec 03 02:51:28 2024
+ - The user found a pipe with an ID using the 'Name' filter: 1
+Tue Dec 03 02:51:28 2024
+ - The user displayed the data about the pipe: Pipe 2
+Tue Dec 03 02:51:28 2024
+ - The user found a pipe with an ID using the 'Name' filter: 2
+Tue Dec 03 02:51:40 2024
+ - User choice: 0
+Tue Dec 03 02:51:40 2024
+ - The user went to 'Pipe Filtering'
+Tue Dec 03 02:51:44 2024
+ - The user has selected an action: 2
+Tue Dec 03 02:51:44 2024
+ - The user launched a search for pipes by the filter 'Repair status'.
+Tue Dec 03 02:51:46 2024
+ - Pipe search 'Repair Status': Status entered (1 - yes, 0 - no):0
+Tue Dec 03 02:51:46 2024
+ - The user displayed the data about the pipe: Pipe 1
+Tue Dec 03 02:51:46 2024
+ - The user found a pipe with an ID using the 'Repair Status' filter: 1
+Tue Dec 03 02:51:46 2024
+ - The user displayed the data about the pipe: Pipe 2
+Tue Dec 03 02:51:46 2024
+ - The user found a pipe with an ID using the 'Repair Status' filter: 2
+Tue Dec 03 02:51:50 2024
+ - User choice: 0
+Tue Dec 03 02:51:50 2024
+ - The user went to 'Pipe Filtering'
+Tue Dec 03 02:51:52 2024
+ - The user has selected an action: 0
+Tue Dec 03 02:51:55 2024
+ - User choice: 0
+Tue Dec 03 02:51:55 2024
+ - The user went to the 'Main Menu'
+Tue Dec 03 02:52:00 2024
+ - User choice: 2
+Tue Dec 03 02:52:02 2024
+ - User choice: 1
+Tue Dec 03 02:52:05 2024
+ - User entered new CS name: cs 1
+Tue Dec 03 02:52:06 2024
+ - Entered value: 12
+Tue Dec 03 02:52:06 2024
+ - User entered amount of workshops of CS: 12
+Tue Dec 03 02:52:07 2024
+ - Entered value: 11
+Tue Dec 03 02:52:07 2024
+ - User entered amount of active workshops of CS: 12
+Tue Dec 03 02:52:09 2024
+ - Entered value: 10.000000
+Tue Dec 03 02:52:09 2024
+ - User entered effective of CS: 12%
+Tue Dec 03 02:52:09 2024
+ - Cs was added. ID: 1
+Tue Dec 03 02:52:10 2024
+ - User choice: 1
+Tue Dec 03 02:52:12 2024
+ - User entered new CS name: Cs 2
+Tue Dec 03 02:52:15 2024
+ - Entered value: 120
+Tue Dec 03 02:52:15 2024
+ - User entered amount of workshops of CS: 120
+Tue Dec 03 02:52:17 2024
+ - Entered value: 120
+Tue Dec 03 02:52:17 2024
+ - User entered amount of active workshops of CS: 120
+Tue Dec 03 02:52:19 2024
+ - Entered value: 100.000000
+Tue Dec 03 02:52:19 2024
+ - User entered effective of CS: 120%
+Tue Dec 03 02:52:19 2024
+ - Cs was added. ID: 2
+Tue Dec 03 02:52:23 2024
+ - User choice: 0
+Tue Dec 03 02:52:23 2024
+ - User go to 'Main menu'
+Tue Dec 03 02:52:25 2024
+ - User choice: 4
+Tue Dec 03 02:52:29 2024
+ - Saving..: save1.txt
+Tue Dec 03 02:52:29 2024
+ - Successfully saved file: save1.txt
+Tue Dec 03 02:53:18 2024
+ - User choice: 6
+Tue Dec 03 02:53:22 2024
+ - Entered value: 1
+Tue Dec 03 02:53:23 2024
+ - Entered value: 2
+Tue Dec 03 02:53:27 2024
+ - Entered value: 500
+Tue Dec 03 02:53:42 2024
+ - User choice: 3
+Tue Dec 03 02:53:42 2024
+ - The user displayed the data about the pipe: Pipe 1
+Tue Dec 03 02:53:42 2024
+ - The user displayed the data about the pipe: Pipe 2
+Tue Dec 03 02:53:42 2024
+ - The user requested a list of pipes.
+Tue Dec 03 02:53:42 2024
+ - User check list of CS.
+Tue Dec 03 02:53:42 2024
+ - The display of all pipes and stations has been completed.
+Tue Dec 03 02:54:09 2024
+ - User choice: 2
+Tue Dec 03 02:54:11 2024
+ - User choice: 1
+Tue Dec 03 02:54:15 2024
+ - User entered new CS name: cs 3
+Tue Dec 03 02:54:18 2024
+ - Entered value: 1
+Tue Dec 03 02:54:18 2024
+ - User entered amount of workshops of CS: 1
+Tue Dec 03 02:54:18 2024
+ - Entered value: 1
+Tue Dec 03 02:54:18 2024
+ - User entered amount of active workshops of CS: 1
+Tue Dec 03 02:54:20 2024
+ - Entered value: 100.000000
+Tue Dec 03 02:54:20 2024
+ - User entered effective of CS: 1%
+Tue Dec 03 02:54:20 2024
+ - Cs was added. ID: 3
+Tue Dec 03 02:54:23 2024
+ - User choice: 0
+Tue Dec 03 02:54:23 2024
+ - User go to 'Main menu'
+Tue Dec 03 02:54:28 2024
+ - User choice: 6
+Tue Dec 03 02:54:30 2024
+ - Entered value: 2
+Tue Dec 03 02:54:30 2024
+ - Entered value: 3
+Tue Dec 03 02:54:32 2024
+ - Entered value: 700
+Tue Dec 03 02:54:50 2024
+ - User entered name of pipe: pipe 3
+Tue Dec 03 02:54:53 2024
+ - Entered value: 222.000000
+Tue Dec 03 02:54:53 2024
+ - User entered length of pipe: 222.000000 km
+Tue Dec 03 02:55:00 2024
+ - Entered value: 600.000000
+Tue Dec 03 02:55:00 2024
+ - User entered diameter of pipe: 600.000000 mm
+Tue Dec 03 02:55:18 2024
+ - User entered name of pipe: pipe 3
+Tue Dec 03 02:55:20 2024
+ - Entered value: 1233.000000
+Tue Dec 03 02:55:20 2024
+ - User entered length of pipe: 1233.000000 km
+Tue Dec 03 02:55:22 2024
+ - Entered value: 700.000000
+Tue Dec 03 02:55:22 2024
+ - User entered diameter of pipe: 700.000000 mm
+Tue Dec 03 02:55:37 2024
+ - User choice: 8
